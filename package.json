@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "react-dom": "^18.2.0"
-  }
+  },
+  "name": "diagrama_flujo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pasante.sistemas@jade.net.ve"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
 }
