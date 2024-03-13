@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .flowchart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px auto;
+  }
+  
+  .node {
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .arrow {
+    width: 50px;
+    height: 2px;
+    background-color: #ccc;
+  }
+  
